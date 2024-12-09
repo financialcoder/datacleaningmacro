@@ -1,5 +1,5 @@
 # datacleaningmacro
-Sub CountBlanksInColumn()
+    Sub CountBlanksInColumn()
     Dim colName As String
     Dim ws As Worksheet
     Dim lastRow As Long
